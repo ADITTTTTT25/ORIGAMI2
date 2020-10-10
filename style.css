@@ -1,0 +1,34 @@
+h1 {
+  color: pink;
+}
+.header {
+  background-color: grey;
+  display: flex;
+  justify-content: center;
+}
+.menu {
+  display: flex;
+  justify-content: space-evenly;
+}
+.origami {
+  display: flex;
+  justify-content: space-evenly;
+}
+.text {
+  display: flex;
+  justify-content: space-evenly;
+}
+/* .text-head1 {
+  text-indent: 140mm;
+}
+.text-head2 {
+  text-indent: 320mm;
+}
+.text-head3 {
+  text-indent: 340mm;
+} */
+.text-head {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+}
